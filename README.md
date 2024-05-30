@@ -1,4 +1,4 @@
-# Computing Minimal Deductive/Sumsuption Modules
+# ELMod: Computing Minimal Deductive/Sumsuption Modules
 
 run jar-file: java allMinModules.jar --ontology [ONTOLOGYFILE] --sig [SIGFILE] 
 
