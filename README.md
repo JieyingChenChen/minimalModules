@@ -4,11 +4,10 @@ run jar-file: java allMinModules.jar --ontology [ONTOLOGYFILE] --sig [SIGFILE]
 
 
 
-
+Note that the input ontology needs to be an EL terminology and the input signature file needs to be in the same format as the example signature file.
 
 Codes: Jieying Chen, Michel Ludwig;
 
-UI: Oliver Stahl
 
 
 Please cite the following papers when you use the tool.
